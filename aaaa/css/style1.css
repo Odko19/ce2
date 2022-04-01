@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Comfortaa", cursive;
+}
+
+.back1 {
+  background:
+    /* red */ linear-gradient(
+        180deg,
+        #fdda7b 100%,
+        transparent 50.1%
+      )
+      0 0 no-repeat,
+    /*yellow */ linear-gradient(180deg, white 70%, transparent 50.1%) 100% 0%
+      no-repeat,
+    /* blue */ linear-gradient(180deg, #e9e6d9 100%, transparent 50.1%) 0% 100%
+      no-repeat,
+    /* green */ #f7a27c;
+  background-size: 57% 50%;
+}
+.back6 {
+  background:
+  /* red */ linear-gradient(90deg, #f4a17b 70%, transparent 50.1%)
+      0 0 no-repeat,
+    linear-gradient(180deg, #f4a17b 50%, transparent 51%) 0 80% no-repeat,
+    /*yellow */ linear-gradient(180deg, #e9e6d9 100%, transparent 50.1%) 100% 0%
+      no-repeat,
+    linear-gradient(180deg, #e9e6d9 50%, transparent 51%) 0 0 no-repeat,
+    /* blue */ linear-gradient(360deg, #fdda7b 100%, transparent 50.1%) 100%
+      100% no-repeat,
+    /* green */ #c9dbea;
+  background-size: 60% 50%;
+}
+.back2 {
+  background-color: #fbcab6;
+}
+.back3 {
+  background-color: #c9dbea;
+}
+.back4 {
+  background-color: #fdda7b;
+}
+.back5 {
+  background-color: #e9e6d9;
+}
+.bor1 {
+  background-color: #ebac8f;
+}
